@@ -2,7 +2,7 @@
 
 自分で使っているPopClip Extensionを置くレポジトリ。
 
-- [ebmac.popclipext](./EBMac/ebmac.popclipext.zip) <- [リンクテキスト](http://ebstudio.info/manual/EBMac/)
+- [ebmac.popclipext](./EBMac/ebmac.popclipext.zip) <- [EBMac](http://ebstudio.info/manual/EBMac/)
 - [mkdictionaries.popclipext](./辞書%20by%20物書堂/mkdictionaries.popclipext.zip) <- [辞書 by 物書堂](https://www.monokakido.jp/ja/dictionaries/app/)
 - [mkdictionariesenja.popclipext](./辞書%20by%20物書堂/mkdictionariesenja.popclipext.zip) <- [辞書 by 物書堂](https://www.monokakido.jp/ja/dictionaries/app/)の英和辞書を検索
 
