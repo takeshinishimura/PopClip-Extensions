@@ -15,11 +15,11 @@
     </dict>
     </array>
     <key>Extension Description</key>
-    <string>ebmac</string>
+    <string>EBMac</string>
     <key>Extension Identifier</key>
-    <string>com.takeshinishimura.popclip.extension.ebmac</string>
+    <string>com.example.popclip.extension.ebmac</string>
       <key>Extension Name</key>
-    <string>ebmac</string>
+    <string>EBMac</string>
     <key>Version</key>
     <integer>2</integer>
     </dict>

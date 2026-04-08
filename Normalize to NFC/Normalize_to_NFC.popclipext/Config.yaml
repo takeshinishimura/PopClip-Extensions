@@ -1,0 +1,20 @@
+name: Normalize to NFC
+identifier: com.example.popclip.extension.nfc-normalize
+description: Convert NFD (decomposed) characters to NFC (composed).
+icon: N
+javascript: |
+  const original = popclip.input.text;
+  const normalized = original.normalize("NFC");
+
+  if (normalized === original) {
+    popclip.showText("NFC: no change");
+    return;
+  }
+
+  popclip.pasteText(normalized);
+
+  const beforeLength = [...original].length;
+  const afterLength = [...normalized].length;
+  const changedCount = beforeLength - afterLength;
+
+  popclip.showText(`NFC: ${changedCount} chars changed`);

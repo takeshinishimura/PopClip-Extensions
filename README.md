@@ -2,9 +2,10 @@
 
 自分で使っているPopClip Extensionを置くレポジトリ。
 
-- [ebmac.popclipext](./EBMac/ebmac.popclipext.zip) <- [EBMac](http://ebstudio.info/manual/EBMac/)
-- [mkdictionaries.popclipext](./辞書%20by%20物書堂/mkdictionaries.popclipext.zip) <- [辞書 by 物書堂](https://www.monokakido.jp/ja/dictionaries/app/)
-- [mkdictionariesenja.popclipext](./辞書%20by%20物書堂/mkdictionariesenja.popclipext.zip) <- [辞書 by 物書堂](https://www.monokakido.jp/ja/dictionaries/app/)の英和辞書を検索
+- [Normalize_to_NFC.popclipext](./Normalize%20to%20NFC/Normalize_to_NFC.popclipext): NFCへのUnicode正規化（濁点・半濁点の分離を修正）
+- [ebmac.popclipext](./EBMac/EBMac.popclipext): [EBMac](http://ebstudio.info/manual/EBMac/)
+- [mkdictionaries.popclipext](./辞書%20by%20物書堂/mkdictionaries.popclipext): [辞書 by 物書堂](https://www.monokakido.jp/ja/dictionaries/app/)
+- [mkdictionariesenja.popclipext](./辞書%20by%20物書堂/mkdictionariesenja.popclipext): [辞書 by 物書堂](https://www.monokakido.jp/ja/dictionaries/app/)の英和辞書を検索
 
 ## PopClip Extensionの作り方
 
